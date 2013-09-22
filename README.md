@@ -2,7 +2,9 @@ Polimetrics.tk is a web app we built during MHACKS 2013 at the Big House. We pri
 
 
 built by ///
-Nand Dalal
-Jen Eisenberg
-Santosh Mohan
-Jordan VanderZwaag
+<ul>
+<li>Nand Dalal</li>
+<li>Jen Eisenberg</li>
+<li>Santosh Mohan</li>
+<li>Jordan VanderZwaag</li>
+</ul>
